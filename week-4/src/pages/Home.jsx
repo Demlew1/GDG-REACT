@@ -6,9 +6,9 @@ function Home() {
 
   return (
     <div>
-<h1>Welcome to Keri Bookstore</h1>
-<p>Your one-stop shop for all things books!</p>     
-<button onClick={() => navigate("/about")}>Go to About Page</button>
+      <h1>Welcome to demlew Bookstore</h1>
+      <p>Your one-stop shop for all things books!</p>
+      <button onClick={() => navigate("/about")}>Go to About Page</button>
     </div>
   );
 }
